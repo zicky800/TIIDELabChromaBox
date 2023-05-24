@@ -5,9 +5,10 @@ body{
 }
 
 nav{
-    padding: 20px;
-    background-color: blue;
-     border-bottom: 5px solid whitesmoke;
+  padding-top: 500px;
+  padding: 20px;
+  background-color: blue;
+  border-bottom: 5px solid whitesmoke;
 }
 
 h3{
@@ -15,7 +16,7 @@ h3{
 }
 
 h3 span{
-    color: white;
+  color: white;
 }
 .container{
   width: 95%;
